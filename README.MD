@@ -10,7 +10,7 @@ MadeCV, sıradanlıktan uzak, göz alıcı ve profesyonel özgeçmişler (CV) ol
 -   **Anlık Önizleme:** Yaptığınız değişiklikleri anında görün.
 -   **PDF İndirme:** Oluşturduğunuz CV'yi yüksek kalitede PDF olarak indirin.
 -   **Çoklu Dil Desteği (Planlanıyor):** Farklı dillerde CV oluşturma imkanı.
--   **Mobil Uyumlu (Eğer mobil uygulama ise):** İstediğiniz zaman, istediğiniz yerden CV'nizi güncelleyin.
+-   **Mobil Uyumlu :** İstediğiniz zaman, istediğiniz yerden CV'nizi güncelleyin.
 
 ## 🛠️ Kurulum
 
