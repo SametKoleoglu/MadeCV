@@ -4,3 +4,11 @@ export interface Template {
   color: string;
   layout: string;
 }
+
+
+export interface Section {
+  id: string;
+  title: string;
+  icon: string;
+  screen: string;
+}
