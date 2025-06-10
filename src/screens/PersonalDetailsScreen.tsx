@@ -9,6 +9,7 @@ const PersonalDetailsScreen = () => {
   )
 }
 
-export default PersonalDetailsScreen
 
 const styles = StyleSheet.create({})
+
+export default PersonalDetailsScreen
